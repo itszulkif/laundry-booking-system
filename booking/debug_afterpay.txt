@@ -1,0 +1,11 @@
+Time: 2025-12-11 13:21:27
+HTTP Code: 401
+Response: {
+  "errorCode" : "unauthorized",
+  "errorId" : "13694bf0eb0c59ed",
+  "message" : "Credentials are required to access this resource.",
+  "httpStatusCode" : 401
+}
+Request Data: {"amount":{"amount":"154.00","currency":"USD"},"consumer":{"email":"kzulfi968@gmail.com","givenNames":"Muhammad","surname":"Kamil","phoneNumber":"+923348242929"},"merchant":{"redirectConfirmUrl":"http:\/\/localhost\/bookingsytem\/booking\/afterpay_success.php?order_id=47","redirectCancelUrl":"http:\/\/localhost\/bookingsytem\/booking\/payment_cancel.php?order_id=47"},"merchantReference":"ORD-4BBB6"}
+Auth Header: Basic TEsyS0pENDNLRlNGMjpFejBBZ3FfTml3OWJpNER6Um5hOTJXaFR2ZXNKWVdhcUt6U3ZBVDcwWFExd081Z20wNzlqcDdjTmNsNUhvaV9kR1FLV2pZck9nOGJGWU5HNA==
+----------------
